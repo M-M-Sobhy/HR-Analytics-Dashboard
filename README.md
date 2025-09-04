@@ -65,7 +65,24 @@ This structured model ensures efficient queries, easy DAX calculations, and scal
 ---
 
 ## 📷 Dashboard Preview
-![HR Analytics Dashboard](your_cover_image_link_here)
+<p align="center">
+  <img src="home-page.JPG" alt="Overview Dashboard" width="800">
+</p>
+
+<p align="center">
+  <img src="Dempgraphics -page.JPG" alt="Demographics Dashboard" width="800">
+</p>
+
+<p align="center">
+  <img src="performance - page.JPG" alt="Performance Tracker Dashboard" width="800">
+</p>
+
+<p align="center">
+  <img src="Attrition - page.JPG" alt="Attrition Dashboard" width="800">
+</p>
+<p align="center">
+  <img src="hr_Modeling_schema.JPG" alt="Start schema" width="800">
+</p>
 
 ---
 
